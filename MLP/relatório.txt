@@ -1,0 +1,4 @@
+Resposta da quetão 4:
+
+Um falso negativo é pior, pois casos o sistema classifique uma ataque como normal, ele vai deixar esse ataque 
+afetar o sistema sem resistência.
